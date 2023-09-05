@@ -6,3 +6,6 @@ function log(message) {
 }
 
 module.exports.log = log;
+
+// only exporting only one function
+// module.exports = log;
